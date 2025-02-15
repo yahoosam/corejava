@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/AccessModifierDemo/AccessModifierDemo.iml" filepath="$PROJECT_DIR$/AccessModifierDemo/AccessModifierDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnonymousClass/AnonymousClass.iml" filepath="$PROJECT_DIR$/AnonymousClass/AnonymousClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicConceptsDemo/BasicConceptsDemo.iml" filepath="$PROJECT_DIR$/BasicConceptsDemo/BasicConceptsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeRefresher/CodeRefresher.iml" filepath="$PROJECT_DIR$/CodeRefresher/CodeRefresher.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" filepath="$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConcurrentCollections/ConcurrentCollections.iml" filepath="$PROJECT_DIR$/ConcurrentCollections/ConcurrentCollections.iml" />
